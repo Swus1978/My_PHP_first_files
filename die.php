@@ -1,3 +1,16 @@
+<?php
+
+
+
+echo "Soy un echo ";
+
+die();
+
+
+?>
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -6,6 +19,6 @@
     <title>Document</title>
 </head>
 <body>
-
+    <h1>Hola Mundo!</h1>
 </body>
 </html>
