@@ -21,7 +21,7 @@ if($_POST){
 <body>
     <form action="<?php echo htmlspecialchars($_SERVER['PHP_SELF'])?>" method="post">
         <label for="nombre">Nombre</label>
-        <input type="text" placeholder="Nombre:" name="nombre">
+        <input type="text" placeholder="Nombre:" name="nombre" id="nombre"`>
         <br>
 
         <label for="hombre">Hombre</label>
